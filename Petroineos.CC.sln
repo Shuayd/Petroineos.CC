@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petroineos.CC.Service", "Pe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petroineos.CC.PowerPositionFunc", "Petroineos.CC.PowerPositionFunc\Petroineos.CC.PowerPositionFunc.csproj", "{759053CF-275D-4BE5-BD40-08B04E2F6353}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E0E8F38-8313-40AC-BB75-2D2FB9F0D421}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
