@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "TimerInterval": "0 */5 * * * *",
+    "CSVFilePath": "c:\Users\shuay\source\repos\Petroineos.CC\Petroineos.CC.PowerPositionFunc\Temp"
+  }
+}
